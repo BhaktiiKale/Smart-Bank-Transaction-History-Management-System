@@ -1,8 +1,9 @@
-Flight Ticket Management System Using AVL Tree
+# Flight Ticket Management System Using AVL Tree
 
 1. Introduction
 
-The Flight Ticket Management System is a DSA project developed using C++. It uses an AVL Tree to store and manage flight ticket IDs. It demonstrates LR and RL rotations to maintain a balanced tree.
+ The Flight Ticket Management System is a DSA project developed using C++. It uses an AVL Tree to store and manage flight ticket IDs. 
+ It demonstrates LR and RL rotations to maintain a balanced tree.
 
 2. Objectives
 
